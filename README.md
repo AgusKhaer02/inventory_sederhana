@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="1000" src="https://github.com/AgusKhaer02/inventory_sederhana/blob/86375cff5ed217f4bad71801580a2bf8b5822deb/assets/E%20inventory%20sederhana.png?raw=true"  />
+  <img height="1300" src="https://github.com/AgusKhaer02/inventory_sederhana/blob/86375cff5ed217f4bad71801580a2bf8b5822deb/assets/E%20inventory%20sederhana.png?raw=true"  />
 </div>
 
 ###
