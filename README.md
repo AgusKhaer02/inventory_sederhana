@@ -1,4 +1,4 @@
-<h5 align="left">Inventory Sederhana</h5>
+<h1 align="left">Inventory Sederhana</h1>
 
 ###
 
