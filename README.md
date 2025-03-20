@@ -1,16 +1,17 @@
-# express_inventory
+<h5 align="left">Inventory Sederhana</h5>
 
-A new Flutter project.
+###
 
-## Getting Started
+<p align="left">by Agus Kurniadin Khaer</p>
 
-This project is a starting point for a Flutter application.
+###
 
-A few resources to get you started if this is your first Flutter project:
+<h6 align="left">Made with Flutter and NodeJS Express</h6>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img height="200" src="https://github.com/AgusKhaer02/inventory_sederhana/blob/86375cff5ed217f4bad71801580a2bf8b5822deb/assets/E%20inventory%20sederhana.png?raw=true"  />
+</div>
+
+###
